@@ -1,3 +1,2 @@
 echo "enter to Jenkins and Git"
 echo "added new line"
-mail -s "GIT changes" dsapalya@apple.com
