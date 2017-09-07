@@ -1,2 +1,3 @@
+echo "entered a first line"
 echo "enter to Jenkins and Git"
 echo "added new line"
